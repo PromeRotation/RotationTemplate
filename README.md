@@ -66,4 +66,4 @@
 
 ## 详细教程
 
-参见 [[Init 模版使用教程：从零到第一个 ACR.md](Init%20模版使用教程：从零到第一个%20ACR.md](https://github.com/PromeRotation/RotationTemplate/blob/main/initACR/Init%20%E6%A8%A1%E7%89%88%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%20ACR.md))
+参见 [Init 模版使用教程：从零到第一个 ACR](https://github.com/PromeRotation/RotationTemplate/blob/main/initACR/Init%20%E6%A8%A1%E7%89%88%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%20ACR.md)
